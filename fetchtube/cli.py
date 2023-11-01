@@ -5,6 +5,7 @@ from pathlib import Path
 DOWNLOADS_PATH = str(Path.home() / "Downloads")
 FETCH_VERSION = "0.0.1"
 
+
 def main():
     parser = argparse.ArgumentParser(description="Fetch - YouTube Video and Audio Downloader")
 

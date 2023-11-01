@@ -11,9 +11,9 @@ setuptools.setup(
     description=("A youtube downloader package."),
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/fyresmith/fetch",
+    url="https://github.com/fyresmith/fetchtube",
     project_urls={
-        "Bug Tracker": "https://github.com/fyresmith/fetch/issues",
+        "Bug Tracker": "https://github.com/fyresmith/fetchtube/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
