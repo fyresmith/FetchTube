@@ -1,5 +1,3 @@
-markdown
-Copy code
 # FetchTube - Simple YouTube Video and Audio Downloader
 
 FetchTube is a lightweight Python package that allows you to easily download YouTube videos and audio using simple command-line commands.
